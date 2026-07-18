@@ -1,17 +1,29 @@
+# Principle of Economics
+
 # Week 1
 [[Ten Principles of Economics]]
+
 [[Circular Flow Diagram]]
+
 [[Production Possibility Frontier]]
+
 [[Microeconomics]]
+
 [[Macroeconomics]]
+
 [[Statements]]
 
 # Week 2
 [[Interdependence]]
+
 [[Absolute Advantage]]
+
 [[Two Measures of the Cost of Good]]
+
 [[Comparative Advantage]]
+
 [[Comparative Advantage in Trade]]
+
 [[Competitive Market]]
 [[Demand]]
 [[Supply]]
