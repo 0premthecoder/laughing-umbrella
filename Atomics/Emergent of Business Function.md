@@ -10,5 +10,5 @@ Fron 1970s onwards, Functions became more strategic
 - Marketing from selling to customer value and relationship management
 - Operation from production control to lean and supply chain strategy
 - IS&T from back-office data processing to digital platforms
-- R&D from laboratory research to innovation ecosystems and
+- R&D from laboratory research to innovation ecosystems
 - Business strategy from long range planning to competitive advantage

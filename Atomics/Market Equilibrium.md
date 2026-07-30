@@ -6,7 +6,9 @@ Tags:
 
 There is a tendency of a [[Competitive Market]] that it will take prices of goods and services to equilibrium (where buyer and seller both are on same page (all goods are sold))
 
-![[Pasted image 20260628072327.png|587]]
+It maximizes the total Surplus 
+
+![[Pasted image 20260628072327.png|221]]
 
 | **Shift**          | **Effect on Equilibrium Price** | **Effect on Equilibrium Quantity** |
 | ------------------ | ------------------------------- | ---------------------------------- |

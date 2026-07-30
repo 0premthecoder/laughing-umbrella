@@ -13,5 +13,5 @@ The fall in output is the **Cost of The tax**
 Govt Earns some revenue is the **Benefits of The tax**
 
 = T (Tax size) x Q (Quantity taxed)
-![[Pasted image 20260713083751.png|267]]
+![[Pasted image 20260713083751.png|697]]
 

@@ -7,4 +7,7 @@ Tags: [[Consumer surplus]] [[Producer Surplus]]
 • Objective of a Benevolent Social Planner: Maximize the total economic well-being (total surplus) of society, which is the sum of consumer surplus and producer surplus.
 
 • **Total Surplus**: Defined as the value to buyers minus the cost to sellers.
+ $$\text{Total Surplus} = \text{Willingness to Pay} - \text{Opportunity Cost}$$
+ 
+
 
