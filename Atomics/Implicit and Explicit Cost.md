@@ -1,6 +1,6 @@
 2026-07-13 08:11
 
-Tags:
+Tags: [[opportunity cost]]
 
 # Implicit and Explicit Cost
 
