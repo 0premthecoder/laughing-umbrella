@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "876ef4147d5ae9f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b09fa5e1bc5a866f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a74a4b67c04c0f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundational/Management Thoughts and Practice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Management Thoughts and Practice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9861ca6d5d68fff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b887c8399238f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c3dc3651825c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0cd80ce36ee7aa1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f90b9956ea9a337",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "57145bfac4d26422",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d224965c86449b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f64045a8f375598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atomics/Firm vs Industry vs Sector.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Firm vs Industry vs Sector"
+            }
+          },
+          {
+            "id": "5d00481d3dbf6737",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atomics/Firm vs Industry vs Sector.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Firm vs Industry vs Sector"
+            }
+          },
+          {
+            "id": "4fd88bbda9ce77cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5947a826e4b31d90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "59d0d0b5fd73d8eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atomics/Firm vs Industry vs Sector.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Firm vs Industry vs Sector"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a74a4b67c04c0f59",
+  "lastOpenFiles": [
+    "Foundational/Principles of Economics.md",
+    "Foundational/Management Thoughts and Practice.md",
+    "Atomics/National Income.md",
+    "Atomics/Classification of Goods based on Manufacturing.md",
+    "Atomics/welfare in Oligopoly.md",
+    "Atomics/Prisoner's Dilemma.md",
+    "Atomics/Increasing in No lead to Oligopoly in.md",
+    "Atomics/Equilibrium for Oligopoly.md",
+    "Atomics/Nash equilibrium.md",
+    "Atomics/Oligopoly.md",
+    "Atomics/Collusion.md",
+    "Atomics/Types of  Oligopoly.md",
+    "Atomics/Game theory.md",
+    "Atomics/What determines no of firms in Monopolistic Competition.md",
+    "Atomics/Business Stealing Externalities.md",
+    "Atomics/Product Variety Externalities.md",
+    "Atomics/Advertisements.md",
+    "Atomics/Welfare in monopolistic Competition.md",
+    "Atomics/Monopolistic Competition.md",
+    "Atomics/Demand Curve for Monopolistic Competition.md",
+    "Atomics/Characteristics of Monopolistic Competition.md",
+    "Atomics/Long Run of Monopolistic Competition.md",
+    "Atomics/Johari Window.md",
+    "Atomics/Short Run of Monopolistic Competition.md",
+    "Atomics/Greek Philosopher.md",
+    "Atomics/Pre-Socratic Philosophy.md",
+    "Attachments/Pasted image 20260901070808.png",
+    "Attachments/Pasted image 20260829205822.png",
+    "Attachments/Pasted image 20260829205202.png",
+    "Attachments/Pasted image 20260829074149.png",
+    "Attachments/Pasted image 20260829072341.png",
+    "Attachments/Pasted image 20260828103253.png",
+    "Attachments/Pasted image 20260827132119.png",
+    "Attachments/Pasted image 20260823065436.png",
+    "Attachments/Pasted image 20260819144516.png",
+    "Attachments/Pasted image 20260819143852.png",
+    "Administrative",
+    "Attachments",
+    "Templates",
+    "Atomics",
+    "Foundational/Core",
+    "Foundational"
+  ]
+}

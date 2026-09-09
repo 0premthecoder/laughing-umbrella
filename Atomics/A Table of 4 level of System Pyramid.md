@@ -1,0 +1,13 @@
+2026-07-31 12:30
+
+Tags:
+
+# A Table of 4 level of System Pyramid
+
+
+| **Level**                        | **Core Focus**                | **Operational Question**          | **Management Posture**            | **Key Characteristics**                                                                                | **Business Illustration**                                                                                                                                                                              |
+| -------------------------------- | ----------------------------- | --------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Level 1: Events**              | Visible surface occurrences   | _"What just happened?"_           | **Reactive** _(Firefighting)_     | Discrete, immediate incidents; leads to symptom-treatment without diagnosing root causes.              | • Product recall at Toyota.<br><br>  <br><br>• Quarterly earnings miss at a SaaS firm.<br><br>  <br><br>• Resignation of a key engineer.                                                               |
+| **Level 2: Patterns**            | Behavior trends over time     | _"What has been happening?"_      | **Responsive** _(Longitudinal)_   | Tracks velocity, directionality, and trajectory across multi-quarter timelines.                        | • 8 consecutive quarters of declining market share.<br><br>  <br><br>• 3-year trend of falling employee engagement scores.<br><br>  <br><br>• CAC rising 20% annually.                                 |
+| **Level 3: Systemic Structures** | Architectural drivers         | _"What creates these patterns?"_  | **Redesign** _(Architectural)_    | Includes feedback loops ($R$ and $B$), stocks/flows, time delays, info flows, and incentive alignment. | • Amazon's flywheel ($R$-loop).<br><br>  <br><br>• The Bullwhip Effect in retail supply chains.<br><br>  <br><br>• Perverse sales incentive structures.                                                |
+| **Level 4: Mental Models**       | Deepest assumptions & beliefs | _"What worldviews sustain this?"_ | **Transformative** _(Generative)_ | Tacit, unarticulated assumptions, values, and mental frames that shape structural design.              | • Nokia: _"Hardware is what matters, not OS."_<br><br>  <br><br>• Kodak: _"Film is our business; digital is a threat."_<br><br>  <br><br>• Netflix/Google: _"Psychological safety drives innovation."_ |
