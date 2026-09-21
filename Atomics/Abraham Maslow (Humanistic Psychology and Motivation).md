@@ -6,7 +6,6 @@ Tags:
 
 An American psychologist who founded humanistic psychology. Instead of studying psychological disorders, Maslow focused on human potential, health, and positive motivation.
 
-
 ## Management theory
 
 - **Hierarchy of Needs:** Introduced in his paper _A Theory of Human Motivation_, this is a five-level pyramid explaining worker motivation. The levels, from bottom to top, are: Physiological needs, Safety needs, Social/Belongingness needs, Self-Esteem needs, and Self-Actualization.
